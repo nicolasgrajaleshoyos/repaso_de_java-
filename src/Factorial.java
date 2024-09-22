@@ -1,10 +1,8 @@
 import javax.swing.*;
 
 public class Factorial {
-    public static void main(String[] args) {
-
-
-        int numero;
+   /*
+     int numero;
         long contador=0;
 
 
@@ -20,14 +18,9 @@ public class Factorial {
             JOptionPane.showMessageDialog(null,"el factoria de   : "+ numero  + " *  " + i + " es :"+ factorial );
             System.out.println("el factorial de :"+numero  + " *  " + i + " es :"+ factorial );
 
-
-
-
         }
-
-
-
-
-
     }
+
+
+    */
 }
