@@ -1,4 +1,4 @@
-import javax.swing.*;
+package ciclos;
 
 public class Multiplicacion {
 

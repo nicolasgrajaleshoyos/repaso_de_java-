@@ -1,3 +1,4 @@
+package ciclos;
 import javax.swing.*;
 
 public class Notas {
@@ -16,7 +17,7 @@ public class Notas {
             //notas +=notas/i;
 
 
-            if ( notas >=2.9) {
+            if ( notas >=3.0) {
                 gano=false;
                 JOptionPane.showMessageDialog(null, "El estudiante gano");
                 cont ++;
