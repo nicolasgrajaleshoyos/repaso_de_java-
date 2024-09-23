@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class sueldos {
 
-    /*
+
     public static void main(String[] args) {
         //pedir 10 sueldos mostrar su suma  y cuantos hay mayores de 1000
 
@@ -29,7 +29,7 @@ public class sueldos {
         JOptionPane.showMessageDialog(null,"los sueldos  mayores son "+mayores);
         System.out.println("los sueldos  mayores son "+mayores);
     }
-     */
+
 
 
 }
