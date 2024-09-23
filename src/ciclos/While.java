@@ -1,5 +1,4 @@
-import javax.swing.*;
-import java.util.Scanner;
+package ciclos;
 
 public class While {
 

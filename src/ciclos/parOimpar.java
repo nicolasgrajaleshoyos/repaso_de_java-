@@ -1,3 +1,6 @@
+
+package ciclos;
+
 import java.util.Scanner;
 
 public class parOimpar {

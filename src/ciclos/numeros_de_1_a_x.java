@@ -1,4 +1,4 @@
-import javax.swing.*;
+package ciclos;
 import java.util.Scanner;
 
 public class numeros_de_1_a_x {

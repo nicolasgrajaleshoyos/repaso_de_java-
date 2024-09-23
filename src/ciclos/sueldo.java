@@ -1,3 +1,4 @@
+package ciclos;
 import javax.swing.*;
 
 public class sueldo {
